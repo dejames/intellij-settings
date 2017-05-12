@@ -1,0 +1,27 @@
+<keymap version="1" name="Custom" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="alt windows" />
+  </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="GotoBookmark1" />
+  <action id="RunJsbtTask" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+</keymap>

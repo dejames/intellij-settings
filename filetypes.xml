@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="pkg" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping pattern="bfs_search_direct" type="XML" />
+    </extensionMap>
+  </component>
+</application>
