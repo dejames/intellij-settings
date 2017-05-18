@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -14,13 +15,13 @@
       <mask>xml</mask>
       <mask>*xml</mask>
       <mask>pom.xml</mask>
-      <mask>*.yml</mask>
       <mask>*.properties</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
