@@ -6,21 +6,18 @@
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
+      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*Test.java</mask>
-      <mask>*.js</mask>
-      <mask>xml</mask>
-      <mask>*xml</mask>
       <mask>pom.xml</mask>
       <mask>*.properties</mask>
+      <mask>*.x</mask>
       <mask>*.j</mask>
+      <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
