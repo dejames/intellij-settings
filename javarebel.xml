@@ -6,5 +6,6 @@
         <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="7.0.9" />
       </map>
     </option>
+    <option name="settingsStartupRadioSelection" value="1" />
   </component>
 </application>
