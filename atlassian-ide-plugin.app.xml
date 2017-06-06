@@ -1,5 +1,10 @@
 <application>
   <component name="atlassian-ide-plugin">
+    <option name="bambooConfigurationData">
+      <BambooConfigurationBean>
+        <option name="bambooTooltipOption" value="Never" />
+      </BambooConfigurationBean>
+    </option>
     <option name="generalConfigurationData">
       <GeneralConfigurationBean>
         <option name="anonymousEnhancedFeedbackEnabled" value="true" />
