@@ -19,12 +19,17 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoHome" />
   <action id="GoToClass" />
   <action id="GotoBookmark1" />
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="RunJsbtTask" />
   <action id="Scala.RenameJavaToScala" />
   <action id="Scala.RunWorksheet" />
+  <action id="Scala.ShowImplicitParameters" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
