@@ -3,13 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tml" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
@@ -24,7 +18,6 @@
       <mask>*.xnk=</mask>
       <mask>*.xnk</mask>
       <mask>*.xn</mask>
-      <mask>*.</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>*.x</mask>
@@ -32,6 +25,15 @@
       <mask>*.properties</mask>
       <mask>*.xml</mask>
       <mask>*.tml</mask>
+      <mask>*.tm</mask>
+      <mask>*.t</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
