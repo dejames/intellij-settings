@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.tml" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -31,6 +31,7 @@
       <mask>*.pr</mask>
       <mask>*.properties</mask>
       <mask>*.xml</mask>
+      <mask>*.tml</mask>
     </recentFileMasks>
   </component>
 </application>
