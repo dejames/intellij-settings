@@ -3,37 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>*.pr</mask>
-      <mask>*.properties</mask>
-      <mask>*.tml</mask>
-      <mask>*.tm</mask>
-      <mask>*.t</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.*</mask>
-      <mask>*.x</mask>
-      <mask>p</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom..xml</mask>
-      <mask>pom..xm</mask>
-      <mask>pom..x</mask>
-      <mask>pom..</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xml</mask>
-      <mask>pom.xmla</mask>
-      <mask>*</mask>
-      <mask>*.java</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
   </component>
 </application>
