@@ -1,6 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Apache Camel" shouldLog="false" />
+    <notification groupId="Apache Camel" displayType="NONE" shouldLog="false" />
     <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
   </component>
