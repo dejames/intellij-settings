@@ -1,24 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.jaava</mask>
       <mask>*.jaav</mask>
       <mask>*.jaa</mask>
@@ -34,11 +24,17 @@
       <mask>*T.java</mask>
       <mask>*Te.java</mask>
       <mask>*Tests.java</mask>
-      <mask>*Test</mask>
       <mask>*Test.</mask>
       <mask>*Test.j</mask>
       <mask>*Test.ja</mask>
       <mask>*Test.java</mask>
+      <mask>*Test</mask>
+      <mask>*x</mask>
+      <mask>*/</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
