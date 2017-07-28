@@ -5,11 +5,10 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*.x</mask>
       <mask>*.jaava</mask>
       <mask>*.jaav</mask>
       <mask>*.jaa</mask>
@@ -35,8 +34,9 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.yml</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
