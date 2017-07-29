@@ -2,15 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
+      <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*.x</mask>
       <mask>*.jaava</mask>
       <mask>*.jaav</mask>
       <mask>*.jaa</mask>
@@ -34,10 +32,10 @@
       <mask>*x</mask>
       <mask>*/</mask>
       <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.yml</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
+      <mask>*.x</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
