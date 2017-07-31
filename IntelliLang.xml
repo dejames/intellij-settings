@@ -1,8 +1,0 @@
-<application>
-  <component name="LanguageInjectionConfiguration">
-    <injection language="JSON" injector-id="java">
-      <display-name>AbstractAssert.isEqualTo (org.assertj.core.api)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("isEqualTo").withParameters("java.lang.Object").definedInClass("org.assertj.core.api.AbstractAssert"))]]></place>
-    </injection>
-  </component>
-</application>
