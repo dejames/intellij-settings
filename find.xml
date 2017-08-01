@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.mx</mask>
       <mask>*.m</mask>
@@ -31,9 +32,9 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
-      <mask>*.yml</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
