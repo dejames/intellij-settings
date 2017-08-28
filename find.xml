@@ -1,18 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*T.java</mask>
-      <mask>*Te.java</mask>
-      <mask>*Tests.java</mask>
-      <mask>*Test.</mask>
-      <mask>*Test.j</mask>
       <mask>*Test.ja</mask>
       <mask>*Test.java</mask>
       <mask>*Test</mask>
@@ -38,6 +29,11 @@
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
       <mask>.xml</mask>
+      <mask>.xm</mask>
+      <mask>.x</mask>
+      <mask>.</mask>
+      <mask>.h</mask>
+      <mask>.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
