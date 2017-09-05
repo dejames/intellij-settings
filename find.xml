@@ -1,20 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*Tests.java</mask>
-      <mask>*Test.</mask>
-      <mask>*Test.j</mask>
       <mask>*Test.ja</mask>
       <mask>*Test.java</mask>
       <mask>*Test</mask>
@@ -28,20 +22,23 @@
       <mask>*.J</mask>
       <mask>*.JA</mask>
       <mask>*.yml</mask>
-      <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>xml</mask>
       <mask>p.xml</mask>
       <mask>po.xml</mask>
-      <mask>pom.xml</mask>
       <mask>.xml</mask>
       <mask>*?</mask>
       <mask>*</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>o</mask>
+      <mask>po</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
