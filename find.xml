@@ -29,11 +29,11 @@
       <mask>*</mask>
       <mask>*.hb</mask>
       <mask>*.hbs</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.json</mask>
       <mask>*.xml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
