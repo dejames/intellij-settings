@@ -1,5 +1,13 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java">
+        <added pattern="org.assertj.core.api.AbstractObjectAssert.extracting(propertiesOrFields)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Ruby" />
+      <blacklist language="Kotlin" />
+    </blacklists>
   </component>
 </application>
